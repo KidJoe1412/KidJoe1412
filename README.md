@@ -1,4 +1,11 @@
 ### Hi there 👋
+![KidJoe1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidJoe1412&show_icons=true&theme=radical)
+
+
+
+
+
+
 
 <!--
 **KidJoe1412/KidJoe1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
