@@ -1,4 +1,5 @@
-### Hi Friend 👋
+
+  ### ✨Hi friend ! Nice to meet you!✨
 - 🔭 目前正在找实习 | I’m currently working on campus
 - 🌱 目前正在学习算法 | I’m currently learning algorithm
 - 🤔 需要工作方面的帮助捏 | I’m looking for help with jobs
@@ -9,6 +10,7 @@
   - 🔥  WebSite：xzxhappy.com
 
 ![KidJoe1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidJoe1412&show_icons=true&theme=radical)
+
 
 
 
